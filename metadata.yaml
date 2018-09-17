@@ -1,0 +1,29 @@
+_repo: Arminell-A-Social-Romance-Vol-1_52555
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baring-Gould, S. (Sabine)
+    aliases:
+    - Gould, Sabine Baring
+    - Baring-Gould, Sabine
+    - Gould, S. Baring
+    birthdate: 1834
+    deathdate: 1924
+    gutenberg_agent_id: '1766'
+    url: http://www.gutenberg.org/2009/agents/1766
+    wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
+description: ''
+gutenberg_issued: '2016-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52555'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction -- 19th century'
+- GITenberg
+title: 'Arminell: A Social Romance, Vol. 1'
+url: http://www.gutenberg.org/ebooks/52555
